@@ -1,4 +1,5 @@
-Django==6.0.1
+# NOTE: Django 6.0.x does not exist (as of 2026); use a current stable release.
+Django==5.0.6
 djangorestframework==3.15.2
 django-cors-headers==4.6.0
 djangorestframework-simplejwt==5.4.0
